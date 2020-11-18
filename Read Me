@@ -1,0 +1,9 @@
+
+Karşılaştığım sorunlar
+* ESP32 S footprintini ekledim bir kaç pininde konumlama sorunu vardı düzelttim fakat schematice koyduğumda düzelmemiş hali görünüyor.
+* ESP32 S 3D symbol olarak bulamadım , 3D symbol olarak bulduklarımın modellemesinde sorun çıkanlar oldu.
+* Devreyi tam olara nasıl kuracağımı belirleyemedim.
+
+
+
+
